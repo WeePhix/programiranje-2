@@ -1,8 +1,9 @@
 {
     "rust-analyzer.linkedProjects": [
         "01-uvod-v-rust/predavanja/guessing_game/Cargo.toml",
-        // "01-uvod-v-rust/vaje/Cargo.toml",
-        // "02-lastnistvo/vaje/Cargo.toml",
-        // "05-funkcijsko-programiranje/vaje/Cargo.toml",
+        "01-uvod-v-rust/vaje/Cargo.toml",
+        "02-lastnistvo/vaje/Cargo.toml",
+        "03-podatkovni-tipi",
+        "05-funkcijsko-programiranje/vaje/Cargo.toml",
     ]
 }
